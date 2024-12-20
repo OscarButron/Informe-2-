@@ -1,0 +1,30 @@
+#mapa {
+    text-align: center;
+}
+
+.map-container {
+    display: flex;          
+    justify-content: center; 
+    align-items: center;    
+    height: 500px;          
+}
+
+.map-container iframe {
+    max-width: 100%;
+    height: auto;    
+}
+
+footer {
+    background-color: black; 
+    color: white; 
+    padding: 20px 0;  
+  }
+  
+  footer a {
+    color: white;  
+    text-decoration: none;  
+  }
+  
+  footer a:hover {
+    text-decoration: underline;  
+  }
